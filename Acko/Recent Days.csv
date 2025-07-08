@@ -1,0 +1,5 @@
+Difficulty,Title,Frequency,Link,Topics
+HARD,Count All Valid Pickup and Delivery Options,100.0,https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options,"Math, Dynamic Programming, Combinatorics"
+EASY,Fill Missing Data,100.0,https://leetcode.com/problems/fill-missing-data,
+HARD,Parallel Courses III,89.6,https://leetcode.com/problems/parallel-courses-iii,"Array, Dynamic Programming, Graph, Topological Sort"
+EASY,Invalid Tweets,89.6,https://leetcode.com/problems/invalid-tweets,Database
